@@ -67,6 +67,7 @@ title("Reconstruction of Signal Using Fourier Coefficients")
 xlabel("Time(s)")
 ylabel("Phase")
 
+%FUNCTIONS
 function y = periodicExtension(x,n)
 % Return the periodic extension of the vector x.
 % The number of periods is n
